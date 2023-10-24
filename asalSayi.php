@@ -10,7 +10,7 @@ function asalMi($sayi){
 }
 $sonuc = asalMi(7817);
 if(!$sonuc){
-    echo "asal";
+    echo "asal sayıdır";
 }else{
     echo "asal değil";
 }
